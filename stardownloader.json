@@ -1,1 +1,9 @@
-{"baseurls":["url1","url2","url3"]}
+{
+  "baseurls" : [
+    "https://static.starmakerstudios.com/production/uploading/recordings/",
+    "https://static.smintro.com/production/uploading/recordings/",
+    "https://static.smpopular.com/production/uploading/recordings/",
+    "https://static.smjazz.com/production/uploading/recordings/",
+    "https://static.smoutro.com/production/uploading/recordings/"
+     ]
+}
